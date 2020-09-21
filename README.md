@@ -28,5 +28,15 @@ npm i react-router-dom
 ```
 
 6. MongoDB
-7. Heroku
-8. Firebase
+```sh
+1. create mongodb project
+2. create project cluster with AWS
+```
+
+7. Axios
+```sh
+npm i axios
+```
+
+8. Heroku
+9. Firebase
