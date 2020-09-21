@@ -1,0 +1,17 @@
+{
+  "name": "tinder-backend",
+  "version": "1.0.0",
+  "description": "A simplistic Fullstack clone of Tinder exploring the swiping and messaging feature with the MERN stack",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Caleb Crosby Adainoo",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.10.6"
+  }
+}
