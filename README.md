@@ -31,9 +31,11 @@ npm i react-router-dom
 ```sh
 1. create mongodb project
 2. create project cluster with AWS
+
+server localhost port: 8080
 ```
 
-7. Axios
+7. Axios (make http requests)
 ```sh
 npm i axios
 ```
