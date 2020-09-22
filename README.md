@@ -1,6 +1,10 @@
 # React Tinder Clone
 A simplistic Fullstack clone of Tinder exploring the swiping and messaging feature with the MERN stack
 
+## Preview
+
+<img src="tinder-elon.png" width="400px">
+
 ## Technologies
 1. React
 ```sh
@@ -35,7 +39,8 @@ npm i react-router-dom
 server localhost port: 8080
 ```
 
-7. Axios (make http requests)
+7. Axios 
+##### (make http requests)
 ```sh
 npm i axios
 ```
