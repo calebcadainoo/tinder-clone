@@ -45,5 +45,5 @@ server localhost port: 8080
 npm i axios
 ```
 
-8. Heroku
-9. Firebase
+8. Heroku - to host backend
+9. Firebase - for hosting frontend
